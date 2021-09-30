@@ -1,2 +1,4 @@
-file
+HAI BHARATH
+
+Welcome to git stataus
 hai bharath this git practic
